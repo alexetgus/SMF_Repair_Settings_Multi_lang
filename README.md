@@ -29,8 +29,7 @@ exemple *http://example.com/repair_settings.php* .
 
 
 ## Pull requests et Issues
-Créez une nouvelle branche, effectuez vos modifications sur cette branche, puis faites un push de votre commit.
-Ensuite, effectuez une pull request.
+Effectuez vos modifications sur la branche "dev", puis effectuez une pull request afin que votre commit soit mergé.
 
 
 
